@@ -1,5 +1,7 @@
 Laravel validators for base64 encoded files, includes versions of laravel files validation for base64 encoded files.
 
+Forked from https://github.com/crazybooot/base64-validation
+
 ## Requirements
 
 * PHP: 7.1+
@@ -9,7 +11,7 @@ Laravel validators for base64 encoded files, includes versions of laravel files 
 
 * Install composer package to your laravel project
 ``` bash
-$ composer require crazybooot/base64-validation
+$ composer require smart-over/base64-validation
 ```
 
 ## Using
